@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+*.env
+
+# Django migrations
+*/migrations/
+
+# Media/uploads (if applicable)
+media/
+
+# Static files (if you're collecting them externally)
+static/
+
+# Local development settings (if any)
+local_settings.py
+
+# Git
+.git
+.gitignore
+
+# Docker files
+Dockerfile
+docker-compose.yml
+
+# Other IDE or editor specific files
+.vscode/
+.idea/
